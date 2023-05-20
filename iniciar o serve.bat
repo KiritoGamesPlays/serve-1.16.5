@@ -1,0 +1,1 @@
+Java -Xmx2G -jar CatServer-1.16.5-301aa5f8-server.jar
